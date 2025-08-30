@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Christian</h1>
-<h3 align="center">Hi, I'm JOSHUA, a Computer Engineer specialized in web development. I am a passionate full stack web developer, proficient in JavaScript, TypeScript, React, Vite, Node.js, Express.js, HTML, CSS, MongoDB, Firebase, and SQL. My expertise spans both front-end and back-end development, thriving in dynamic environments where I contribute across the entire development lifecycle.</h3>
+<h3 align="center">I am a passionate full stack web developer, proficient in JavaScript, TypeScript, React, Vite, Node.js, Express.js, HTML, CSS, MongoDB, Firebase, and SQL. My expertise spans both front-end and back-end development, thriving in dynamic environments where I contribute across the entire development lifecycle.</h3>
 
 - 🔭 I’m currently working on **Jobber AI**
 
