@@ -1,8 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshex150&label=Profile%20views&color=0e75b6&style=flat" alt="joshex150" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshex150" alt="joshex150" /></a> </p>
+<h1 align="center">Hi 👋, I'm Joshua Christian</h1>
+<h3 align="center">Hi, I'm JOSHUA, a Computer Engineer specialized in web development. I am a passionate full stack web developer, proficient in JavaScript, TypeScript, React, Vite, Node.js, Express.js, HTML, CSS, MongoDB, Firebase, and SQL. My expertise spans both front-end and back-end development, thriving in dynamic environments where I contribute across the entire development lifecycle.</h3>
 
 - 🔭 I’m currently working on **Jobber AI**
 
